@@ -1302,3 +1302,4 @@ function d(i3x, A1, A2, A3) {
 
 
 d(i3x, A1, A2, A3)
+console.log(d(i3x, A1, A2, A3))
